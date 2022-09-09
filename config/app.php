@@ -185,6 +185,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Arikun\Stislasimple\StislaServiceProvider::class,
 
         /*
          * Application Service Providers...
